@@ -1,5 +1,7 @@
 # 🎭 Hello World Joke Script
 
+> **Joke of the day:** How do the trees get on the internet? - *They log on.* 😄
+
 A simple Python script that fetches random jokes from an API and displays them in your terminal.
 
 ## Features
